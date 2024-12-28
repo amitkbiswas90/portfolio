@@ -1,0 +1,75 @@
+*{
+    background-color: #000000;
+}
+.logo-image {
+    width: 90px;
+    height: 60px;
+}
+
+.bg-color {
+    background-color: #006C9D;
+}
+.txt-color {
+    color: #006C9D;
+}
+
+.bg-col-col {
+    background-color: #006C9D;
+    color: white;
+}
+
+.bg-clg-dwn {
+    background-color: #006C9D;
+    border-radius: 5px;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff !important;
+}
+
+
+.hero-section {
+    margin-left: 10%; 
+    margin-right: 10%;
+}
+.bnt-togg {
+    border: 1px solid #006C9D;
+    border-radius: 3px;
+}
+
+.hero-picture {
+    height: 400px;
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+}
+
+.fnt-name {
+    color: #006C9D;
+}
+
+
+
+.title-sec {
+    color: #006C9D;
+}
+
+.container-expertise,.project-show-container {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.sub-btn-bg {
+    background-color: #006C9D;
+    color: white;
+    border: none;
+}
+
+.sub-btn-bg:hover {
+    background-color: #006C9D;
+    color: white;
+}
